@@ -4,24 +4,29 @@
 ![](https://img.shields.io/tokei/lines/github/Antares-Network/template-repo?style=flat-square)  
 ![](https://cdn.discordapp.com/icons/649703068799336454/1a7ef8f706cd60d62547d2c7dc08d6f0.png) 
 
-# Template Repo 
-- Description: This is a template repository for all new repos for the Antares Network
+# Forest Friends Frontend
+- Description: React frontend for managing and accessing the Forest Friends discord bot 
 
 ## Rough outline:
-- Outline here
+- TODO
 
 ## How to run yourself:
-- Explain that here
+**for development**:
+```sh
+~$ yarn dev # opens project in browser. changes made to code will automatically propagate to webpage.
+```
 
+**for production**:
+```sh
+~$ yarn build
+```
 
 ## End goal of the project:
-- Describe what the goal of the project is
-
-
+- TODO
 
 ## Credits:
-- Person A
-- Person B
+- [Nate Goldsborough](https://nathen418.com)
+- [Seth T.](https://github.com/StickyFingies)
 
 ## Join our discord server:
 https://dsc.gg/antaresnetwork
