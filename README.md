@@ -13,12 +13,13 @@
 ## How to run yourself:
 **for development**:
 ```sh
-~$ yarn dev # opens project in browser. changes made to code will automatically propagate to webpage.
+~$ yarn         # install dependencies
+~$ yarn dev     # open project in browser
 ```
 
 **for production**:
 ```sh
-~$ yarn build
+~$ yarn build   # check dist/ for final bulid
 ```
 
 ## End goal of the project:
